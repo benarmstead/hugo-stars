@@ -12,7 +12,8 @@ def main():
     resp = requests.get(URL).text
     doc = BeautifulSoup(resp, "html.parser")
     themes = doc.select(
-        "body > main > div > div > div.w-100.w-80-l.ph0 > div > section > a")
+        "body > main > div > div > div.w-100.w-80-l.ph0 > div > section > a"
+    )
     f = open("README.md", "w")
     now = datetime.now()
     title = f"# hugo-stars\nInspired by [hugo_stars](https://github.com/lon9/hugo_stars)\nUpdated at {now}\n\n"
@@ -26,12 +27,14 @@ def main():
         resp = requests.get(url).text
         page = BeautifulSoup(resp, "html.parser")
         git_url = page.select(
-            "body > main > article > div.flex-l.bg-light-gray > div:nth-child(1) > div:nth-child(2) > div > a:nth-child(1)")
+            "body > main > article > div.flex-l.bg-light-gray > div:nth-child(1) > div:nth-child(2) > div > a:nth-child(1)"
+        )
         git_link = ""
         for link in git_url:
             git_link = link["href"]
         tags_selector = page.select(
-            "body > main > article > div.flex-l.bg-light-gray > div:nth-child(1) > div:nth-child(1) > ul > li.mb2.mt4 > a")
+            "body > main > article > div.flex-l.bg-light-gray > div:nth-child(1) > div:nth-child(1) > ul > li.mb2.mt4 > a"
+        )
         tags = []
         for tag_elem in tags_selector:
             tag = tag_elem.get_text().strip()
