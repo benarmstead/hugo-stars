@@ -1,0 +1,23 @@
+name: Update Readme
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * 0"
+jobs:
+  update:
+    name: Update Readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: run
+        run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: commit
+        run: |
+          git config --local user.name "hugo-stars bot"
+          git commit -m "Updated ranking" -a
+      - name: push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
