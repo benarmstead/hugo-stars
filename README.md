@@ -1,14 +1,14 @@
 # hugo-stars
 
 Inspired by [hugo_stars](https://github.com/lon9/hugo_stars)
-Updated at 2023-04-20 10:10:45.602690
+Updated at 2023-04-20 11:58:59.398644
 
 |Name|Stars|Forks|Tags|UpdatedAt|
 ----|----|----|----|----
-|[wowchemy-hugo-themes](https://api.github.com/repos/wowchemy/wowchemy-hugo-themes)|7132|2802|Blog, Company, Dark, Landing, Minimal, Multilingual, Portfolio, Responsive|2023-04-20 10:07:31|
+|[wowchemy-hugo-themes](https://api.github.com/repos/wowchemy/wowchemy-hugo-themes)|7131|2802|Blog, Company, Dark, Landing, Minimal, Multilingual, Portfolio, Responsive|2023-04-20 11:44:51|
 |[hugo-PaperMod](https://api.github.com/repos/adityatelange/hugo-PaperMod)|6049|1871|Blog, Dark, Light, Minimal, Responsive|2023-04-20 09:12:30|
 |[hugo-theme-stack](https://api.github.com/repos/CaiJimmy/hugo-theme-stack)|3201|808|Blog, Dark, Light, Personal, Responsive|2023-04-20 05:52:21|
-|[LoveIt](https://api.github.com/repos/dillonzq/LoveIt)|2823|933|Blog, Dark, Responsive|2023-04-20 08:13:08|
+|[LoveIt](https://api.github.com/repos/dillonzq/LoveIt)|2824|933|Blog, Dark, Responsive|2023-04-20 11:10:06|
 |[starter-hugo-academic](https://api.github.com/repos/wowchemy/starter-hugo-academic)|2788|6082|Blog, Company, Contact, Dark, Docs, Gallery, Landing, Light, Minimal, Multilingual, Personal, Portfolio, Responsive|2023-04-20 04:35:41|
 |[hugo-book](https://api.github.com/repos/alex-shpak/hugo-book)|2300|965|Docs, Multilingual, Responsive|2023-04-20 10:07:28|
 |[hugo-coder](https://api.github.com/repos/luizdepra/hugo-coder)|2268|926|Blog, Minimal, Personal, Responsive|2023-04-19 10:35:24|
@@ -19,7 +19,7 @@ Updated at 2023-04-20 10:10:45.602690
 |[hugo-paper](https://api.github.com/repos/nanxiaobei/hugo-paper)|1464|339|Blog, Light, Responsive|2023-04-20 10:04:56|
 |[hugo-theme-hello-friend-ng](https://api.github.com/repos/rhazdon/hugo-theme-hello-friend-ng)|1285|670|Blog, Dark, Light, Minimal, Multilingual, Personal, Responsive|2023-04-20 07:16:02|
 |[beautifulhugo](https://api.github.com/repos/halogenica/beautifulhugo)|1028|557|Blog, Bootstrap, Company, Light, Minimal, Multilingual, Portfolio, Responsive|2023-04-20 06:18:03|
-|[hugo-theme-hello-friend](https://api.github.com/repos/panr/hugo-theme-hello-friend)|1019|1096|Blog, Dark, Light, Minimal, Multilingual, Personal, Responsive|2023-04-19 08:59:29|
+|[hugo-theme-hello-friend](https://api.github.com/repos/panr/hugo-theme-hello-friend)|1018|1096|Blog, Dark, Light, Minimal, Multilingual, Personal, Responsive|2023-04-20 11:33:14|
 |[gohugo-theme-ananke](https://api.github.com/repos/theNewDynamic/gohugo-theme-ananke)|891|990|Blog, Multilingual, Responsive|2023-04-18 22:05:55|
 |[hugo-theme-meme](https://api.github.com/repos/reuixiy/hugo-theme-meme)|874|209|Blog, Minimal, Multilingual|2023-04-18 12:17:34|
 |[hugo-tranquilpeak-theme](https://api.github.com/repos/kakawait/hugo-tranquilpeak-theme)|872|519|Blog, Minimal, Personal, Responsive|2023-04-19 21:14:58|
@@ -108,7 +108,7 @@ Updated at 2023-04-20 10:10:45.602690
 |[tailbliss](https://api.github.com/repos/nusserstudios/tailbliss)|91|35|Blog, Company, Dark, Gallery, Light, Minimal, Personal, Portfolio, Responsive|2023-04-19 05:16:17|
 |[hugo-theme-minima](https://api.github.com/repos/mivinci/hugo-theme-minima)|89|40|Blog, Dark, Minimal, Personal, Portfolio, Responsive|2023-04-12 10:44:25|
 |[minimal-bootstrap-hugo-theme](https://api.github.com/repos/zwbetz-gh/minimal-bootstrap-hugo-theme)|88|40|Blog, Bootstrap, Minimal|2023-04-04 06:05:39|
-|[hugo-tufte](https://api.github.com/repos/slashformotion/hugo-tufte)|88|25|Blog, Light, Minimal, Personal|2023-04-20 08:05:13|
+|[hugo-tufte](https://api.github.com/repos/slashformotion/hugo-tufte)|88|25|Blog, Light, Minimal, Personal|2023-04-20 11:32:51|
 |[hugo-geekblog](https://api.github.com/repos/thegeeklab/hugo-geekblog)|83|35|Blog, Responsive|2023-04-06 00:53:57|
 |[hugo-theme-next](https://api.github.com/repos/elkan1788/hugo-theme-next)|82|17|Blog, Dark, Personal|2023-03-30 05:31:04|
 |[hugo-xmag](https://api.github.com/repos/yihui/hugo-xmag)|82|45|Blog, Magazine, Minimal, Responsive|2023-02-16 16:09:28|
@@ -185,10 +185,10 @@ Updated at 2023-04-20 10:10:45.602690
 |[hugo-w3-simple](https://api.github.com/repos/jesselau76/hugo-w3-simple)|22|17|Blog, Minimal, Multilingual, Responsive|2023-03-05 10:11:36|
 |[hugo-toigian](https://api.github.com/repos/ntk148v/hugo-toigian)|22|4|Minimal|2023-04-03 01:49:49|
 |[hugo-now](https://api.github.com/repos/mikeblum/hugo-now)|22|8|Blog, Bootstrap, Responsive|2023-04-05 20:54:14|
+|[hugo-theme-sk1](https://api.github.com/repos/J-Siu/hugo-theme-sk1)|21|7|Blog, Minimal, Personal|2023-04-20 11:44:33|
 |[hugo-theme-icarus-lite](https://api.github.com/repos/airinghost/hugo-theme-icarus-lite)|21|2|Blog|2023-04-17 02:13:49|
 |[calligraphy](https://api.github.com/repos/pacollins/calligraphy)|21|5|Blog, Dark, Light, Minimal, Personal, Portfolio, Responsive|2023-03-27 07:40:04|
 |[capsule](https://api.github.com/repos/sudorook/capsule)|20|10|Responsive|2023-04-11 15:21:26|
-|[hugo-theme-sk1](https://api.github.com/repos/J-Siu/hugo-theme-sk1)|20|7|Blog, Minimal, Personal|2023-04-20 05:55:01|
 |[colordrop](https://api.github.com/repos/humrochagf/colordrop)|20|7|Blog|2023-02-19 16:31:33|
 |[arabica](https://api.github.com/repos/nirocfz/arabica)|20|36|Blog, Minimal|2023-03-12 14:17:56|
 |[compost](https://api.github.com/repos/canstand/compost)|19|6|Blog, Dark, Dark Mode, Light, Minimal, Personal, Responsive|2023-04-17 20:40:42|
