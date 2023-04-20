@@ -15,7 +15,7 @@ def main():
         "body > main > div > div > div.w-100.w-80-l.ph0 > div > section > a")
     f = open("README.md", "w")
     now = datetime.now()
-    title = f"# hugo_stars\nUpdated at {now}\Inspired by [hugo_stars](https://github.com/lon9/hugo_stars)\n\n"
+    title = f"# hugo-stars\nUpdated at {now}\Inspired by [hugo_stars](https://github.com/lon9/hugo_stars)\n\n"
     f.write(title)
     f.write("|Name|Stars|Forks|Tags|UpdatedAt|\n----|----|----|----|----\n")
 
@@ -38,9 +38,12 @@ def main():
             if tag:
                 tags.append(tag)
 
-        repo = g.get_repo(git_link.replace("https://github.com/", ""))
-        repo.tags = tags
-        repos.append(repo)
+        try:
+            repo = g.get_repo(git_link.replace("https://github.com/", ""))
+            repo.tags = tags
+            repos.append(repo)
+        except:
+            print(f"Error: {git_link}")
 
     repos.sort(key=lambda x: x.stargazers_count, reverse=True)
 
