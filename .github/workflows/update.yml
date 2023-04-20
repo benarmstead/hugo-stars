@@ -1,11 +1,12 @@
 name: Update Readme
 
-permissions: read-all|write-all
 on:
   push:
-  pull_request:
   schedule:
     - cron: "0 0 * * 0"
+
+permissions: read-all|write-all
+
 jobs:
   update:
     name: Update Readme
