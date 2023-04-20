@@ -20,4 +20,5 @@ jobs:
         run: python main.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
