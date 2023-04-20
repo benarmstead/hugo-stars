@@ -1,4 +1,4 @@
-name: Lint
+name: Lint python
 
 permissions: read-all|write-all
 on:
