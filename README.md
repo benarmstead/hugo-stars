@@ -1,5 +1,6 @@
 # hugo-stars
-Updated at 2023-04-20 10:13:41.744823\Inspired by [hugo_stars](https://github.com/lon9/hugo_stars)
+Inspired by [hugo_stars](https://github.com/lon9/hugo_stars)
+Updated at 2023-04-20 10:05:26.019338
 
 |Name|Stars|Forks|Tags|UpdatedAt|
 ----|----|----|----|----
@@ -8,19 +9,19 @@ Updated at 2023-04-20 10:13:41.744823\Inspired by [hugo_stars](https://github.co
 |[hugo-theme-stack](https://api.github.com/repos/CaiJimmy/hugo-theme-stack)|3201|808|Blog, Dark, Light, Personal, Responsive|2023-04-20 05:52:21|
 |[LoveIt](https://api.github.com/repos/dillonzq/LoveIt)|2823|933|Blog, Dark, Responsive|2023-04-20 08:13:08|
 |[starter-hugo-academic](https://api.github.com/repos/wowchemy/starter-hugo-academic)|2788|6082|Blog, Company, Contact, Dark, Docs, Gallery, Landing, Light, Minimal, Multilingual, Personal, Portfolio, Responsive|2023-04-20 04:35:41|
-|[hugo-book](https://api.github.com/repos/alex-shpak/hugo-book)|2301|964|Docs, Multilingual, Responsive|2023-04-20 06:08:29|
+|[hugo-book](https://api.github.com/repos/alex-shpak/hugo-book)|2301|965|Docs, Multilingual, Responsive|2023-04-20 06:08:29|
 |[hugo-coder](https://api.github.com/repos/luizdepra/hugo-coder)|2268|926|Blog, Minimal, Personal, Responsive|2023-04-19 10:35:24|
 |[docsy](https://api.github.com/repos/google/docsy)|2146|781|Docs, Multilingual, Responsive|2023-04-20 08:38:58|
 |[hugo-theme-terminal](https://api.github.com/repos/panr/hugo-theme-terminal)|1719|628|Blog, Dark, Landing, Minimal, Multilingual, Personal, Responsive|2023-04-19 11:39:12|
 |[doks](https://api.github.com/repos/h-enk/doks)|1533|325|Blog, Bootstrap, Dark Mode, Docs, Landing, Minimal|2023-04-19 13:38:59|
 |[hugo-theme-learn](https://api.github.com/repos/matcornic/hugo-theme-learn)|1515|1360|Docs|2023-04-19 10:19:49|
-|[hugo-paper](https://api.github.com/repos/nanxiaobei/hugo-paper)|1465|339|Blog, Light, Responsive|2023-04-20 05:21:09|
+|[hugo-paper](https://api.github.com/repos/nanxiaobei/hugo-paper)|1464|339|Blog, Light, Responsive|2023-04-20 10:04:56|
 |[hugo-theme-hello-friend-ng](https://api.github.com/repos/rhazdon/hugo-theme-hello-friend-ng)|1285|670|Blog, Dark, Light, Minimal, Multilingual, Personal, Responsive|2023-04-20 07:16:02|
 |[beautifulhugo](https://api.github.com/repos/halogenica/beautifulhugo)|1028|557|Blog, Bootstrap, Company, Light, Minimal, Multilingual, Portfolio, Responsive|2023-04-20 06:18:03|
 |[hugo-theme-hello-friend](https://api.github.com/repos/panr/hugo-theme-hello-friend)|1019|1096|Blog, Dark, Light, Minimal, Multilingual, Personal, Responsive|2023-04-19 08:59:29|
 |[gohugo-theme-ananke](https://api.github.com/repos/theNewDynamic/gohugo-theme-ananke)|891|990|Blog, Multilingual, Responsive|2023-04-18 22:05:55|
 |[hugo-theme-meme](https://api.github.com/repos/reuixiy/hugo-theme-meme)|874|209|Blog, Minimal, Multilingual|2023-04-18 12:17:34|
-|[hugo-tranquilpeak-theme](https://api.github.com/repos/kakawait/hugo-tranquilpeak-theme)|872|520|Blog, Minimal, Personal, Responsive|2023-04-19 21:14:58|
+|[hugo-tranquilpeak-theme](https://api.github.com/repos/kakawait/hugo-tranquilpeak-theme)|872|519|Blog, Minimal, Personal, Responsive|2023-04-19 21:14:58|
 |[hugo-theme-jane](https://api.github.com/repos/xianmin/hugo-theme-jane)|838|268|Blog, Multilingual, Responsive|2023-04-18 02:02:18|
 |[Mainroad](https://api.github.com/repos/Vimux/Mainroad)|745|419|Blog, Light, Multilingual, Responsive|2023-04-19 09:04:32|
 |[toha](https://api.github.com/repos/hugo-toha/toha)|743|469|Blog, Bootstrap, Gallery, Minimal, Multilingual, Portfolio, Responsive|2023-04-19 08:05:43|
@@ -83,7 +84,7 @@ Updated at 2023-04-20 10:13:41.744823\Inspired by [hugo_stars](https://github.co
 |[aether](https://api.github.com/repos/josephhutch/aether)|142|68|Blog, Minimal, Personal, Responsive|2023-04-05 13:12:36|
 |[hugo-story](https://api.github.com/repos/caressofsteel/hugo-story)|139|51|Blog, Landing, Portfolio, Responsive|2023-04-16 18:57:18|
 |[hugo-theme-massively](https://api.github.com/repos/curtiscde/hugo-theme-massively)|137|136|Blog|2023-04-05 16:48:57|
-|[eternity](https://api.github.com/repos/boratanrikulu/eternity)|134|40|Minimal, Portfolio, Responsive|2023-04-16 20:09:51|
+|[eternity](https://api.github.com/repos/boratanrikulu/eternity)|135|40|Minimal, Portfolio, Responsive|2023-04-20 09:45:06|
 |[hugo-theme-air](https://api.github.com/repos/syui/hugo-theme-air)|134|88|Blog|2023-03-27 11:56:35|
 |[Hugo-Octopress](https://api.github.com/repos/parsiya/Hugo-Octopress)|133|48||2023-04-19 11:49:16|
 |[roxo-hugo](https://api.github.com/repos/StaticMania/roxo-hugo)|131|153|Agency, Blog, Company, Minimal, Portfolio, Responsive|2023-04-12 19:54:49|
