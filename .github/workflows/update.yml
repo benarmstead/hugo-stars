@@ -20,11 +20,4 @@ jobs:
         run: python main.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: commit
-        run: |
-          git config --local user.name "hugo-stars bot"
-          git commit -m "Updated ranking" -a
-      - name: push
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
