@@ -1,9 +1,10 @@
 name: Lint python
 
-permissions: read-all|write-all
 on:
   push:
   pull_request:
+
+permissions: write-all
 
 jobs:
   run-linters:

@@ -2,10 +2,11 @@ name: Update Readme
 
 on:
   push:
+  pull_request:
   schedule:
     - cron: "0 0 * * 0"
 
-permissions: read-all|write-all
+permissions: write-all
 
 jobs:
   update:
