@@ -1,6 +1,9 @@
 name: Lint
 
-on: push
+permissions: read-all|write-all
+on:
+  push:
+  pull_request:
 
 jobs:
   run-linters:
