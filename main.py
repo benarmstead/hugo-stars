@@ -16,7 +16,7 @@ def main():
     )
     f = open("README.md", "w")
     now = datetime.now()
-    title = f"# hugo-stars\nInspired by [hugo_stars](https://github.com/lon9/hugo_stars)\nUpdated at {now}\n\n"
+    title = f"# hugo-stars\n\nInspired by [hugo_stars](https://github.com/lon9/hugo_stars)\nUpdated at {now}\n\n"
     f.write(title)
     f.write("|Name|Stars|Forks|Tags|UpdatedAt|\n----|----|----|----|----\n")
 
